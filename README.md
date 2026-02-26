@@ -14,3 +14,9 @@ I am a Robotics Systems and Mechatronics engineer from Bauman Moscow State Techn
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hexadust&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 🤖 Current Projects:
+1. Development and Experimental Study of Control System for Self Balancing Robot with Remote Access through Web Interface.
+2. РТК для производства смартфонов.
+3. Adaptive Gripper with CV technologies.
+4. V.E.S.R.A. - Virtual Engineering Spatial Rendering Assistant
