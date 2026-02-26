@@ -86,5 +86,4 @@ Adaptive gripper with computer vision technologies for object detection and mani
 ![Three js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 
-V.E.S.R.A. - Virtual Engineering Spatial Rendering Assistant for 3D visualization and engineering design.
 ---
