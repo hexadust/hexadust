@@ -16,44 +16,20 @@ I am a Robotics Systems and Mechatronics engineer from Bauman Moscow State Techn
 [![](https://visitcount.itsvg.in/api?id=hexadust&icon=0&color=0)](https://visitcount.itsvg.in)
 # 🤖 Current Projects:
 
-### 1. Self-Balancing Robot
-![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![IoT](https://img.shields.io/badge/IoT-%2300A98F.svg?style=for-the-badge&logo=iot&logoColor=white)
-![Web Interface](https://img.shields.io/badge/web%20interface-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-Development and Experimental Study of Control System for Self Balancing Robot with Remote Access through Web Interface.
+### [![Development and Experimental Study of Control System for Self Balancing Robot with Remote Access through Web Interface](https://img.shields.io/badge/Self--Balancing%20Robot-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://github.com/hexadust/self-balancing-robot)
+Experimental study and development of a Self Balancing Robot with control system theorems and IoT capabilities, allowing remote operation and data acquisition through a responsive web interface.
 
 ---
 
-### 2. РТК для производства смартфонов (Robotics for Smartphone Manufacturing)
-![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-Robotic system for smartphone production line with computer vision and quality control.
+### [![РТК для производства смартфонов](https://img.shields.io/badge/РТК%20Smartphone%20Manufacturing-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/hexadust/smartphone-robotics)
+Robotic system for smartphone production line with integration between PLC, IoT, CV, and web dashboard.
 
 ---
 
-### 3. Adaptive Gripper with CV Technologies
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![CAD](https://img.shields.io/badge/CAD-%23F05033.svg?style=for-the-badge&logo=autodesk&logoColor=white)
-
+### [![Adaptive Gripper with CV](https://img.shields.io/badge/Adaptive%20Gripper%20CV-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/hexadust/adaptive-gripper)
 Adaptive gripper with computer vision technologies for object detection and manipulation.
 
 ---
 
-### 4. V.E.S.R.A. - Virtual Engineering Spatial Rendering Assistant
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-
-V.E.S.R.A. - Virtual Engineering Spatial Rendering Assistant for 3D visualization and engineering design.
+### [![V.E.S.R.A.](https://img.shields.io/badge/V.E.S.R.A.-%2320232a.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/hexadust/vesra)
+Virtual Engineering Spatial Rendering Assistant for 3D visualization of engineering design.
