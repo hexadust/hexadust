@@ -16,20 +16,47 @@ I am a Robotics Systems and Mechatronics engineer from Bauman Moscow State Techn
 [![](https://visitcount.itsvg.in/api?id=hexadust&icon=0&color=0)](https://visitcount.itsvg.in)
 # 🤖 Current Projects:
 
-### [![Development and Experimental Study of Control System for Self Balancing Robot with Remote Access through Web Interface](https://img.shields.io/badge/Self--Balancing%20Robot-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://github.com/hexadust/self-balancing-robot)
-Experimental study and development of a Self Balancing Robot with control system theorems and IoT capabilities, allowing remote operation and data acquisition through a responsive web interface.
+### 1. Self Balancing Robot
+![ESP32](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Robotics](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![IoT](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/IoT-%2300A98F.svg?style=for-the-badge&logo=iot&logoColor=white)
+![Web Interface](https://img.shields.io/badge/web%20interface-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+Experimental study and development of a Self-Balancing Robot control system with IoT capabilities, allowing remote operation and data acquisition through a responsive web interface
 
 ---
 
-### [![РТК для производства смартфонов](https://img.shields.io/badge/РТК%20Smartphone%20Manufacturing-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/hexadust/smartphone-robotics)
-Robotic system for smartphone production line with integration between PLC, IoT, CV, and web dashboard.
+### 2. РТК для производства смартфонов 
+![Industrial Robotics](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Fusion360](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PLC](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Coppeliasim](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![OpenCV](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![MATLAB](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Node-RED](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+Robotic system for smartphone production line with computer vision and quality control.
 
 ---
 
-### [![Adaptive Gripper with CV](https://img.shields.io/badge/Adaptive%20Gripper%20CV-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/hexadust/adaptive-gripper)
+### 3. Adaptive Gripper with CV Technologies
+![Industrial Robotics](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Fusion360](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Arduino](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Fusion360](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![ESP32](https://img.shields.io/badge/web%20interface-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 Adaptive gripper with computer vision technologies for object detection and manipulation.
 
 ---
 
-### [![V.E.S.R.A.](https://img.shields.io/badge/V.E.S.R.A.-%2320232a.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/hexadust/vesra)
-Virtual Engineering Spatial Rendering Assistant for 3D visualization of engineering design.
+### 4. V.E.S.R.A. - Virtual Engineering Spatial Rendering Assistant
+![HTML](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![CSS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Three js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+
+
+V.E.S.R.A. - Virtual Engineering Spatial Rendering Assistant for 3D visualization and engineering design.
