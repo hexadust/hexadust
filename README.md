@@ -16,6 +16,30 @@ I am a Robotics Systems and Mechatronics engineer from Bauman Moscow State Techn
 [![](https://visitcount.itsvg.in/api?id=hexadust&icon=0&color=0)](https://visitcount.itsvg.in)
 # 🤖 Current Projects:
 1. Development and Experimental Study of Control System for Self Balancing Robot with Remote Access through Web Interface.
-2. РТК для производства смартфонов.
-3. Adaptive Gripper with CV technologies.
-4. V.E.S.R.A. - Virtual Engineering Spatial Rendering Assistant
+https://img.shields.io/badge/ROS-%25230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white
+https://img.shields.io/badge/c++-%252300599C.svg?style=for-the-badge&logo=c%252B%252B&logoColor=white
+https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+https://img.shields.io/badge/IoT-%252300A98F.svg?style=for-the-badge&logo=iot&logoColor=white
+https://img.shields.io/badge/web%2520interface-%25231572B6.svg?style=for-the-badge&logo=html5&logoColor=white
+
+3. РТК для производства смартфонов (Robotics for Smartphone Manufacturing)
+https://img.shields.io/badge/ROS-%25230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white
+https://img.shields.io/badge/opencv-%2523white.svg?style=for-the-badge&logo=opencv&logoColor=white
+https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+https://img.shields.io/badge/c++-%252300599C.svg?style=for-the-badge&logo=c%252B%252B&logoColor=white
+https://img.shields.io/badge/TensorFlow-%2523FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
+
+4. Adaptive Gripper with CV Technologies
+https://img.shields.io/badge/opencv-%2523white.svg?style=for-the-badge&logo=opencv&logoColor=white
+https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+https://img.shields.io/badge/PyTorch-%2523EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
+https://img.shields.io/badge/ROS-%25230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white
+https://img.shields.io/badge/CAD-%2523F05033.svg?style=for-the-badge&logo=autodesk&logoColor=white
+
+5. V.E.S.R.A. - Virtual Engineering Spatial Rendering Assistant
+https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white
+https://img.shields.io/badge/react-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB
+https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E
+https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
+https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white
+
