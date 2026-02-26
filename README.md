@@ -16,47 +16,46 @@ I am a Robotics Systems and Mechatronics engineer from Bauman Moscow State Techn
 [![](https://visitcount.itsvg.in/api?id=hexadust&icon=0&color=0)](https://visitcount.itsvg.in)
 # 🤖 Current Projects:
 
-### 1. Self Balancing Robot
-![ESP32](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Robotics](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![IoT](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MATLAB](https://img.shields.io/badge/IoT-%2300A98F.svg?style=for-the-badge&logo=iot&logoColor=white)
-![Web Interface](https://img.shields.io/badge/web%20interface-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white)
+### 1. Development and Experimental Study of Control System for Self Balancing Robot with Remote Access through Web Dashboard
+![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![Robotics](https://img.shields.io/badge/Robotics-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-%2300A98F.svg?style=for-the-badge&logo=iot&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![Web Interface](https://img.shields.io/badge/Web%20Interface-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-Experimental study and development of a Self-Balancing Robot control system with IoT capabilities, allowing remote operation and data acquisition through a responsive web interface
+Experimental study and development of a Self-Balancing Robot control system with IoT capabilities, allowing remote operation and data acquisition through a responsive web interface.
 
 ---
 
 ### 2. РТК для производства смартфонов 
-![Industrial Robotics](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Fusion360](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PLC](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Coppeliasim](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OpenCV](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![MATLAB](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node-RED](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Industrial Robotics](https://img.shields.io/badge/Industrial%20Robotics-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion%20360-%23FF6F00.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-%23E34F26.svg?style=for-the-badge&logo=siemens&logoColor=white)
+![Coppeliasim](https://img.shields.io/badge/CoppeliaSim-%234285F4.svg?style=for-the-badge&logo=robot-framework&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
 
 Robotic system for smartphone production line with computer vision and quality control.
 
 ---
 
 ### 3. Adaptive Gripper with CV Technologies
-![Industrial Robotics](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Fusion360](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Arduino](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Fusion360](https://img.shields.io/badge/ROS-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![ESP32](https://img.shields.io/badge/web%20interface-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Industrial Robotics](https://img.shields.io/badge/Industrial%20Robotics-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion%20360-%23FF6F00.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion%20360-%23FF6F00.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 
 Adaptive gripper with computer vision technologies for object detection and manipulation.
 
 ---
 
 ### 4. V.E.S.R.A. - Virtual Engineering Spatial Rendering Assistant
-![HTML](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![CSS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Three js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Three js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-
 
 V.E.S.R.A. - Virtual Engineering Spatial Rendering Assistant for 3D visualization and engineering design.
